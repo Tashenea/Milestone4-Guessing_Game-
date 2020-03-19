@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\tmb15\Desktop\bin\Milestone4-Guessing_Game-\Milestone_Guess_Game\Milestone_Guess_Game\BinaryTreeFunction.h(58,1): error C2059: syntax error: ')'
+C:\Users\tmb15\Desktop\bin\Milestone4-Guessing_Game-\Milestone_Guess_Game\Milestone_Guess_Game\BinaryTreeFunction.h(72): message : see reference to class template instantiation 'BinaryTree<T>' being compiled
+C:\Users\tmb15\Desktop\bin\Milestone4-Guessing_Game-\Milestone_Guess_Game\Milestone_Guess_Game\BinaryTreeFunction.h(59,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\tmb15\Desktop\bin\Animal-Guessing-Game\ANIMAL-GUESSING-GAME\main.cpp(15,49): error C2514: 'BinaryTree': class template cannot be constructed
+C:\Users\tmb15\Desktop\bin\Milestone4-Guessing_Game-\Milestone_Guess_Game\Milestone_Guess_Game\BinaryTreeFunction.h(16): message : see declaration of 'BinaryTree'
+  BinaryTreeClass.cpp
+  Generating Code...
