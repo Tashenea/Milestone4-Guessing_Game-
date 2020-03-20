@@ -18,6 +18,14 @@ class BinaryTree
         }
     };
 private:
+    
+
+    void write_node(Node* n, fstream& file) {
+        if (!n) return;
+        write_node(n->left, file);
+        file << n* > data;
+        write_node(n->right, file);
+    }
 
 
     void PrintTree(Node* theRoot)
