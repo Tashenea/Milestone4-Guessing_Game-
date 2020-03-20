@@ -138,12 +138,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Animal-Guessing-Game\ANIMAL-GUESSING-GAME\main.cpp" />
-    <ClCompile Include="BinaryTreeClass.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="BinaryTreeClass.h" />
     <ClInclude Include="BinaryTreeFunction.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
